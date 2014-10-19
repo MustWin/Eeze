@@ -15,7 +15,14 @@ There are a few base files for you to work with... We use these to mix and match
 * `javascripts/`
     * `base-library/`
       * `bootstrap/` - bootstrap js files
+      * `flat-ui/` - flat-ui js files
 * `stylesheets/`
+  * `fonts/`
+    * `flat-ui-icons/`
+    * `fontawesome/`
+    * `gibson/`
+    * `iconic/`
+    * `lato/`
   * `less/`
     * `app-styles/`
       * `application.less` - empty to start - this is where *you* write all your base application styles.
@@ -24,6 +31,7 @@ There are a few base files for you to work with... We use these to mix and match
       * `variables.less` - empty to start - this is where *you* define color variables, font variables, etc
     * `base-library/`
       * `bootstrap/` - bootstrap less files
+      * `flat-ui/` - bootstrap less files
       * `grids/` - grid system includes
       * `icons/` - icon font less files
       * `mixins/` - less mixins and reusables
@@ -31,6 +39,7 @@ There are a few base files for you to work with... We use these to mix and match
     * `app.less` - compiles the styles you have declared into app.css
     * `base.less` - compiles your custom base.css file
     * `bootstrap.less` - compiles your own version of bootstrap.css
+    * `flat-ui.less` - compiles your own version of flatui.css
     * `fonts.less` - compiles your custom fonts.css file
   * `app.css` - out of the box compiled CSS (doesn't look like much, it shouldn't until you write this part.)
   * `base.css` - mix and match reusables, grids, normalize or reset, etc 
