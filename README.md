@@ -31,7 +31,7 @@ There are a few base files for you to work with... We use these to mix and match
       * `variables.less` - empty to start - this is where *you* define color variables, font variables, etc
     * `base-library/`
       * `bootstrap/` - bootstrap less files
-      * `flat-ui/` - bootstrap less files
+      * `flat-ui/` - flat-ui bootstrap theme less files
       * `grids/` - grid system includes
       * `icons/` - icon font less files
       * `mixins/` - less mixins and reusables
